@@ -483,7 +483,8 @@ flex-grow: 0;
 
 ```
 ## OUTPUT:
-![Alt text](figma.png)
+![figma](https://github.com/vasanvasab/Figma/assets/143481226/6aa6e8fe-b2d9-4983-8140-0962f3aa7e63)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
